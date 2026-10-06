@@ -1,0 +1,10 @@
+{
+  "destination": "e-cidade/e-cidade-SertaoDigital",
+  "managed_by": "e-cidade/.github",
+  "mirror": "sertaodigital",
+  "schema": 1,
+  "source": "sertaodigitalorg/e-Cidade-SD",
+  "upstream_default_branch": "main",
+  "upstream_default_sha": "ac2486683f423acc58b4d76c5d94a84b8e9422e1",
+  "upstream_fingerprint": "d64f40f1b2c56beb14654f2d32ed144bf831274cbaab5c4982ff487ce3ee35e1"
+}
